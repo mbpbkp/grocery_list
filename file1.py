@@ -10,3 +10,5 @@ print "i'm learning now!"
 
 #is this branch1?
 #yup..branch1
+
+#now i'm back in branch1 and the master has branch2.
